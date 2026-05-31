@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchsecrypt",
+        "uuid": 20497632,
+        "checksum": "pa0589"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
